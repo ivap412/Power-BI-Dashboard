@@ -25,3 +25,7 @@ This project analyzes the Blinkit grocery dataset to uncover insights into sales
 ## What I Learned:
 
 This project improved my skills in data modeling, visual storytelling, and creating actionable insights from raw data.
+
+## Dashboard
+<img width="670" alt="image" src="https://github.com/user-attachments/assets/a9662408-48f3-4c19-86c0-e76f19e12ec8" />
+
